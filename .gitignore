@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Excel temporary
+~$*.xlsx
+
+# Output files
+Auto_Sales_Report.xlsx
+report_chart.png
